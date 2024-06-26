@@ -1,0 +1,78 @@
+#background{
+  background-image: url(./Asset/test1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#header{
+  font-style: italic;
+  font-family: monospace;
+  font-size: xx-large !important;
+  color: white;
+  
+}
+.navcolor{
+  border: 1px solid brown;
+  border-radius: 5px;
+  background-color:#c86d6dc1;
+  
+}
+.change{
+ font-size: large;
+ color:white !important;
+
+}
+.change:hover{
+  color:#850101 !important;
+}
+#img1{
+  height: 50px;
+  border-radius: 50%;
+  width: 80px;
+}
+.image{
+  height:350px;
+}
+#img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  
+}
+.card{
+  text-align: center;
+  align-items: center;
+  padding-top: 10px;
+  border-radius: 50%;
+  background-color:rgb(250, 211, 164);
+ 
+  color:#850101;
+  font-style: italic;
+}
+.align{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  
+ 
+  
+}
+#heading{
+  text-align: center;
+  font-style: italic;
+  font-family: auto;
+  color:#850101;
+}
+.design{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.styles{
+  background-color:rgb(255, 196, 196);
+}
+.decor{
+  text-decoration: none;
+  color:#850101;
+  font-weight: bold;
+}
+
