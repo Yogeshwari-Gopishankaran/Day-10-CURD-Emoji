@@ -1,0 +1,1 @@
+Fetching the emojies data from API by using Async & Await function by using GET Method.Each Catagry in the Emoji is diplayed by clicking the View More button.HTML,Css,JavaScript is used to build the webpage.
